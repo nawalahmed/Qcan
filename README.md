@@ -1,0 +1,2 @@
+# Qcan
+QR code Generator
